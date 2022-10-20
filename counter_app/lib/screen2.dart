@@ -27,7 +27,9 @@ class _MyWidgetState extends State<screen2> {
             )
           ]
         ),
-      ),);
+        
+      ),
+     );
      
   }
 }
